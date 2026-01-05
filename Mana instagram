@@ -1,0 +1,15 @@
+# 1. ఫోల్డర్‌ను గిట్ ప్రాజెక్ట్‌గా మార్చండి
+git init
+
+# 2. ఫైల్స్ అన్నిటినీ యాడ్ చేయండి
+git add .
+
+# 3. మార్పులను సేవ్ చేయండి
+git commit -m "Initial commit - Mana Instagram with Profile Songs"
+
+# 4. మీ GitHub రిపోజిటరీకి కనెక్ట్ చేయండి
+git remote add origin https://github.com/మీ-యూజర్-నేమ్/Mana-Instagram.git
+
+# 5. కోడ్‌ను ఆన్‌లైన్‌లోకి పంపండి
+git push -u origin main
+
